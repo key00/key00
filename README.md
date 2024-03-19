@@ -1,5 +1,5 @@
 <h1 align='center'> Hi there, I'm Keyna! 👋</h1>
-
+<h3> * About me:</h3> 
 
 - 👩🏻‍💻 Computer Engineer passionate about Web Development
 - 💬 I’m currently learning React
@@ -25,8 +25,7 @@
 [![Keyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=key00&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=key00&show_icons=true&locale=en&layout=compact" alt="key00" /></p>
+<p><img src="https://github-readme-stats-keyna-laure-inamugishas-projects.vercel.app/api/top-langs?username=key00&show_icons=true&locale=en&layout=compact" alt="key00" /></p>
 
 <br/>
 
