@@ -1,5 +1,5 @@
-<h1 align='center'> Hi there, I'm Keyna! 👋</h1>
-<h3> * About me:</h3> 
+<h1 align='center'> Hi there, I'm Keyna!👋🏾</h1>
+<h3>✍🏾 About me:</h3> 
 
 - 👩🏻‍💻 Computer Engineer passionate about Web Development
 - 💬 I’m currently learning React
