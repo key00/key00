@@ -25,8 +25,8 @@
 [![Keyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=key00&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=key00&show_icons=true&locale=en&layout=compact" alt="key00" /></p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=key00&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8)
 <br/>
 
 
